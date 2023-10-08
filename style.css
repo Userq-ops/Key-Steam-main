@@ -13,16 +13,17 @@
     }
   }
   
+
   @font-face {
     font-family: 'Play';
     font-weight: normal;
-    src: url('Play/Play.ttf');
+    src: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play.ttf');
   }
 
   @font-face {
     font-family: 'Play';
     font-weight: bold;
-    src: url('Play/Play-Bold.ttf');
+    src: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play-Bold.ttf');
   }
   
   body {
