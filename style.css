@@ -36,6 +36,17 @@
     src: url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
   }
 
+  @font-face {
+    font-family: 'Play';
+    src: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play.ttf') format('ttf'),
+    
+  }
+
+@font-face {
+   font-family: 'Play-Bold'
+   scr: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play-Bold.ttf') format('ttf');
+}
+
   
   body {
     font-family: 'Play', sans-serif;
