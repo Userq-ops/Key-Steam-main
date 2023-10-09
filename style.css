@@ -29,14 +29,14 @@
   @font-face {
     font-family: 'Play';
     font-weight: normal;
-    src: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play.ttf') format('ttf'),
+    src: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play.woff') format('woff'),
     
   }
 
 @font-face {
    font-family: 'Play';
    font-weight: bold;	   
-   scr: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play-Bold.ttf') format('ttf');
+   scr: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play-Bold.woff') format('woff');
 }
 
   
