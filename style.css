@@ -14,6 +14,7 @@
   }
 
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+
   
 
   @font-face {
@@ -154,7 +155,7 @@
       transition-property: transform,-webkit-transform;
   }
   * {
-    font-family: Play, sans-serif;
+    font-family: 'Play', sans-serif;
   }
 
   .search {
