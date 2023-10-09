@@ -532,6 +532,10 @@
   .genre-p:hover {
     color: rgb(0, 159, 0);
   }
+
+  .genre-zero:hover {
+    color: rgb(0, 159, 0);
+  }
   
   .steam-icon {
     opacity: 0.5;
