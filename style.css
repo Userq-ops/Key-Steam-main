@@ -29,19 +29,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
 
-  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
 
   @font-face {
     font-family: 'Play';
-    font-weight: normal;
-    src: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play.ttf');
+    font-weight: normal, bold;
+    src: url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
   }
 
-  @font-face {
-    font-family: 'Play';
-    font-weight: bold;
-    src: url('https://github.com/Userq-ops/Key-Steam-main/blob/main/images/Play-Bold.ttf');
-  }
   
   body {
     font-family: 'Play', sans-serif;
@@ -170,6 +167,7 @@
   }
   * {
     font-family: 'Play', sans-serif;
+	  font-family: 'Play-Bold', sans-serif; 
   }
 
   .search {
