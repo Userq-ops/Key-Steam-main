@@ -1,32 +1,35 @@
-@media (max-width: 768px) {
-	header, footer, .column {
-      width: 100%;
-    }
-  /* Специфические стили для мобильных устройств */
 
-  /* Пример адаптивных стилей для изменения размера текста и уменьшения отступов */
-  body {
+
+@media (max-width: 1080px),(max-height: 2000) { 
+  .container { 
+    width: 768px; 
+  } 
+ 
+  nav { 
+text-align: center; 
+margin-top: 30px; 
+background-color: rgba(0, 0, 0, 0.5); 
+min-height: 80px; 
+flex-wrap: wrap; 
+display: flex; 
+} 
+
+	 body {
     font-size: 16px;
     padding: 10px;
   }
-
-  /* Пример изменения стилей для блока с классом "header" */
-  .header {
-    background-color: #333;
-    color: #fff;
-  }
-	 nav {
-      display: none;
-    }
 
 	.column {
       float: left;
       width: 10%;
     }
-}
 
 
-
+	.header {
+    background-color: #333;
+    color: #fff;
+  }
+	
   
   body {
     font-family: 'Play', sans-serif;
